@@ -6,8 +6,9 @@ Assets/Scenes/Menu.unity
 Assets/Scenes/Camera.unity
 Assets/Scenes/Clinometer.unity
 Assets/Scenes/Notes.unity
-Assets/Scenes/Compass.unity
+Assets/Scenes/Feed.unity
 Assets/Scenes/Maps.unity
+Assets/Scenes/Recorder.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown

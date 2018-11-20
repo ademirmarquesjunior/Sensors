@@ -19,7 +19,7 @@ public class MainController : MonoBehaviour {
 
         if (Input.GetKey("escape"))
         {
-            Application.Quit();
+            Application.LoadLevel(0);
         }
 
         myTouch = Input.GetTouch(0);

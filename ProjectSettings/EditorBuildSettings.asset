@@ -12,10 +12,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Camera.unity
     guid: 392f45639e83b114a874e493ee382efb
   - enabled: 1
-    path: Assets/Scenes/Accelerometer.unity
+    path: Assets/Scenes/Clinometer.unity
     guid: bd1c4df1803d8d6499d8de0b551ecf5a
   - enabled: 1
-    path: Assets/Scenes/GpsTest.unity
+    path: Assets/Scenes/Notes.unity
     guid: c7fd435eaea5a8847854ce38aaf33f8f
   - enabled: 1
     path: Assets/Scenes/Compass.unity
@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Recorder.unity
+    guid: 6501d583b73aef744a89976f0f410d1e
   m_configObjects: {}
